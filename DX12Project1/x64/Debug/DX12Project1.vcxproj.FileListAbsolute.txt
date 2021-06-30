@@ -1,0 +1,2 @@
+C:\Users\vantan\Desktop\DX12\DX12Project1\x64\Debug\BasicPixelShader.cso
+C:\Users\vantan\Desktop\DX12\DX12Project1\x64\Debug\BasicVertexShader.cso

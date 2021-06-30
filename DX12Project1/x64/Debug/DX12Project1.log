@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(77,27): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(88,31): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(163,84): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(197,34): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(198,47): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(201,40): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(227,2): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(625,43): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+C:\Users\vantan\Desktop\DX12\DX12Project1\DX12Project1\main.cpp(638,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  DX12Project1.vcxproj -> C:\Users\vantan\Desktop\DX12\DX12Project1\x64\Debug\DX12Project1.exe
